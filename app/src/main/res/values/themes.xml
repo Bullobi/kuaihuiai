@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KuaiHuiAI Theme -->
+    <style name="Theme.KuaiHuiAI" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    
+    <!-- LocalDream Theme -->
+    <style name="Theme.LocalDream" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+</resources>
